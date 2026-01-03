@@ -1,0 +1,7 @@
+{
+  "name": "HackPulse",
+  "description": "A premium platform for hosting and discovering elite coding events, hackathons, and technical workshops.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
